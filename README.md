@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **LEAP**
 
-- 🌱 I’m currently learning **Spring boot, Micro services**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Java, Spring boot**
 
