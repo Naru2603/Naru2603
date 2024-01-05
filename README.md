@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAF5ByKQ2cY/BUoMoWcbk1HFmy6GRtBuyg/view?utm_content=DAF5ByKQ2cY&utm_campaign=designshare&utm_medium=link&utm_source=editor)]
+
 <h1 align="center">Hi 👋, I'm Narendra Korade</h1>
 <h3 align="center">A passionate Java Backend developer</h3>
 <img align="right" alt="Coding" width"500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
