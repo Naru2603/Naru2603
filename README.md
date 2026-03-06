@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **narendra.korade97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x2XLrN_Hx6ts_bgGWdGo1S1eH-0FC7Zu/view?usp=drive_link](https://drive.google.com/file/d/1x2XLrN_Hx6ts_bgGWdGo1S1eH-0FC7Zu/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/157qwjzxUKLkXmd3BNRAhRPNVJOhCUXu1/view?usp=sharing](https://drive.google.com/file/d/157qwjzxUKLkXmd3BNRAhRPNVJOhCUXu1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
