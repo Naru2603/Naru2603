@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Java, Spring boot, MicroServices, WebServices, SQL, MYSQL**
+- 💬 Ask me about **Java, Spring boot, MicroServices, WebServices, Kafka, SQL, MYSQL**
 
 - 📫 How to reach me **narendra.korade97@gmail.com**
 
