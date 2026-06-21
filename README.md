@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naru2603&label=Profile%20views&color=0e75b6&style=flat" alt="naru2603" /> </p>
 
-- 🔭 I’m currently working on **LEAP**
+- 🔭 I’m currently working on **TDS**
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **narendra.korade97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/157qwjzxUKLkXmd3BNRAhRPNVJOhCUXu1/view?usp=sharing](https://drive.google.com/file/d/157qwjzxUKLkXmd3BNRAhRPNVJOhCUXu1/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1H57rLb1UuQB85tVWnLv44ngYoISDXegG/view?usp=sharing](https://drive.google.com/file/d/157qwjzxUKLkXmd3BNRAhRPNVJOhCUXu1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
